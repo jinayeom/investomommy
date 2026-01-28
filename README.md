@@ -1,6 +1,5 @@
 # InvestoMommy Backend
 
-Your Personal Investment Companion - FastAPI Backend
 
 ## Features
 
